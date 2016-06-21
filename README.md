@@ -8,7 +8,7 @@
 The web platform developer is a developer who can develop a variety of applications for the web platform.
 
 ## Why would I want to be a web platform developer?
-You can build applications for any environment, platform, or device that the web platform supports, including web browsers, all major desktop operating systems, both major mobile phone operating systems, server environments, and even embedded systems. 
+You can build applications for any environment, platform, or device that the web platform supports, including web browsers, all major desktop operating systems, both major mobile phone operating systems, server environments, and even embedded systems. You build these applications using a unified set of technologies that do not change from environment to environment or platform to platform. That means you don't have to learn many languages, always switching contexts and having to learn the nuances of many different languages...HTML, CSS, JavaScript, and the Web APIs are your platform.
 
 ## How do I become a web platform developer?
 * Gain background understanding of HTML, CSS, and JavaScript
