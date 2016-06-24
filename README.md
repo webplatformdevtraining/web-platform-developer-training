@@ -90,5 +90,8 @@ You can build applications for any environment, platform, or device that the web
  * End-to-end testing
 * Never stop learning
  * Put the best resources you can think of for continual learning (podcasts and books especially)
+ * The Web Platform Podcast: http://www.thewebplatformpodcast.com/
+ * JavaScript Air: https://javascriptair.com/
+ * JavaScript Jabber: https://devchat.tv/js-jabber
 Why JavaScript?
 * http://blogs.avalonconsult.com/blog/generic/why-javascript-is-the-future-of-enterprise-computing/
