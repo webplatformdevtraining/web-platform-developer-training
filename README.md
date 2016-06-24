@@ -55,6 +55,7 @@ You can build applications for any environment, platform, or device that the web
   * Learn the syntax
   * Asynchronous programming
   * Functional Programming
+   * https://github.com/timoxley/functional-javascript-workshop
   * Reactive Programming
   * Functional Reactive Programming
   * Object-oriented Programming (avoid but understand)
@@ -62,6 +63,7 @@ You can build applications for any environment, platform, or device that the web
   * Package management
   * Version Control
   * DOM
+   * https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
   * Web API
   * Web Components
   * Network protocols
