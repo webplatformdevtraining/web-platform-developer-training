@@ -1,6 +1,8 @@
 # Web Platform Developer Training
 
 - [ ]
+- [ ]
+- [ ]
 
 ## What is this?
 
